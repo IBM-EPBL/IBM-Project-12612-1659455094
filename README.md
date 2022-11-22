@@ -7,7 +7,6 @@ GOAL OF THE PROJECT :
                   
                   
                   
-                  PROJECT LINK:https://subashini-12.github.io/airstats-login-page/
+PROJECT LINK: https://subashini-12.github.io/airstats-login-page/
                    
-                  
-                  DEMO LINK:https://drive.google.com/file/d/118RHcXqMyV0xsXUlVVkI_R2ywwdODIBS/view?usp=share_link
+DEMO LINK: https://drive.google.com/file/d/118RHcXqMyV0xsXUlVVkI_R2ywwdODIBS/view?usp=share_link
